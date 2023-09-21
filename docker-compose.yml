@@ -1,0 +1,44 @@
+services:
+
+  python:
+    build: ./docker/python
+    image: mmrh_engines
+    container_name: ${PYTHON_HOST}
+    restart: unless-stopped
+    working_dir: /var/www/html
+    environment:
+      - APP_DEBUG=${APP_DEBUG}
+      - APP_ENV=${APP_ENV}
+      - APP_SERVER_NAME=${APP_SERVER_NAME}
+      - TZ=${APP_TIMEZONE}
+      - SIMULTANEOUSLY_RUNNING_ENGINES=${SIMULTANEOUSLY_RUNNING_ENGINES}
+      - CHECK_INTERVAL=${CHECK_INTERVAL}
+      - MAX_SCRIPT_EXECUTION_TIME_IN_SECONDS=${MAX_SCRIPT_EXECUTION_TIME_IN_SECONDS}
+      - GIS_DATE_OFFSET=${GIS_DATE_OFFSET}
+      - PYTHON_HOST=${PYTHON_HOST}
+      - DB_DL_HOST=${DB_DL_HOST}
+      - DB_DL_BASE=${DB_DL_BASE}
+      - DB_DL_USER=${DB_DL_USER}
+      - DB_DL_PSWD=${DB_DL_PSWD}
+      - DB_DL_PORT=${DB_DL_PORT}
+      - DB_DL_TABLESPACE=${DB_DL_TABLESPACE}
+      - DB_DL_INPUT_SCHEMA=${DB_DL_INPUT_SCHEMA}
+      - DB_DL_OUTPUT_SCHEMA=${DB_DL_OUTPUT_SCHEMA}
+      - DB_GIS_HOST=${DB_GIS_HOST}
+      - DB_GIS_BASE=${DB_GIS_BASE}
+      - DB_GIS_USER=${DB_GIS_USER}
+      - DB_GIS_PSWD=${DB_GIS_PSWD}
+      - DB_GIS_PORT=${DB_GIS_PORT}
+      - DB_CRM_HOST=${DB_CRM_HOST}
+      - DB_CRM_PORT=${DB_CRM_PORT}
+      - DB_CRM_USER=${DB_CRM_USER}
+      - DB_CRM_PASS=${DB_CRM_PASS}
+      - DB_CRM_BASE=${DB_CRM_BASE}
+      - DB_CRM_SCM_PEGADATA=${DB_CRM_SCM_PEGADATA}
+      - DB_AI_HOST=${DB_AI_HOST}
+      - DB_AI_PORT=${DB_AI_PORT}
+      - DB_AI_USER=${DB_AI_USER}
+      - DB_AI_PASS=${DB_AI_PASS}
+      - DB_AI_BASE=${DB_AI_BASE}
+    volumes:
+      - ./:/var/www/html

@@ -1,0 +1,1573 @@
+2023-02-02 16:04:00,098 INFO Set uid to user 0 succeeded
+2023-02-02 16:04:00,104 INFO supervisord started with pid 7
+2023-02-02 16:04:01,107 INFO spawned: 'cron' with pid 8
+2023-02-02 16:04:01,110 INFO spawned: 'python' with pid 9
+2023-02-02 16:04:01,111 INFO spawned: 'scheduler' with pid 10
+2023-02-02 16:04:02,113 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-02-02 16:04:02,114 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-02-02 16:04:02,114 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-02-20 14:43:36,656 INFO Set uid to user 0 succeeded
+2023-02-20 14:43:36,661 INFO supervisord started with pid 7
+2023-02-20 14:43:37,665 INFO spawned: 'cron' with pid 8
+2023-02-20 14:43:37,667 INFO spawned: 'python' with pid 9
+2023-02-20 14:43:37,669 INFO spawned: 'scheduler' with pid 10
+2023-02-20 14:43:38,671 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-02-20 14:43:38,671 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-02-20 14:43:38,671 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 13:55:14,545 INFO Set uid to user 0 succeeded
+2023-03-07 13:55:14,553 INFO supervisord started with pid 7
+2023-03-07 13:55:15,557 INFO spawned: 'cron' with pid 8
+2023-03-07 13:55:15,560 INFO spawned: 'python' with pid 9
+2023-03-07 13:55:15,562 INFO spawned: 'scheduler' with pid 10
+2023-03-07 13:55:16,563 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 13:55:16,564 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 13:55:16,564 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:06:56,240 INFO Set uid to user 0 succeeded
+2023-03-07 14:06:56,242 INFO supervisord started with pid 7
+2023-03-07 14:06:57,245 INFO spawned: 'cron' with pid 8
+2023-03-07 14:06:57,248 INFO spawned: 'python' with pid 9
+2023-03-07 14:06:57,250 INFO spawned: 'scheduler' with pid 10
+2023-03-07 14:06:58,252 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:06:58,252 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:06:58,252 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:33:05,819 INFO Set uid to user 0 succeeded
+2023-03-07 14:33:05,821 INFO supervisord started with pid 7
+2023-03-07 14:33:06,824 INFO spawned: 'cron' with pid 8
+2023-03-07 14:33:06,826 INFO spawned: 'python' with pid 9
+2023-03-07 14:33:06,828 INFO spawned: 'scheduler' with pid 10
+2023-03-07 14:33:07,830 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:33:07,830 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 14:33:07,830 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 16:59:12,879 INFO Set uid to user 0 succeeded
+2023-03-07 16:59:12,882 INFO supervisord started with pid 7
+2023-03-07 16:59:13,885 INFO spawned: 'cron' with pid 8
+2023-03-07 16:59:13,888 INFO spawned: 'python' with pid 9
+2023-03-07 16:59:13,890 INFO spawned: 'scheduler' with pid 10
+2023-03-07 16:59:14,892 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 16:59:14,892 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-07 16:59:14,892 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 10:07:40,355 INFO Set uid to user 0 succeeded
+2023-03-09 10:07:40,362 INFO supervisord started with pid 7
+2023-03-09 10:07:41,365 INFO spawned: 'cron' with pid 8
+2023-03-09 10:07:41,368 INFO spawned: 'python' with pid 9
+2023-03-09 10:07:41,370 INFO spawned: 'scheduler' with pid 10
+2023-03-09 10:07:42,371 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 10:07:42,371 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 10:07:42,371 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:40:07,937 INFO Set uid to user 0 succeeded
+2023-03-09 11:40:07,940 INFO supervisord started with pid 7
+2023-03-09 11:40:08,943 INFO spawned: 'cron' with pid 8
+2023-03-09 11:40:08,946 INFO spawned: 'python' with pid 9
+2023-03-09 11:40:08,949 INFO spawned: 'scheduler' with pid 10
+2023-03-09 11:40:09,951 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:40:09,951 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:40:09,951 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:57:07,963 INFO Set uid to user 0 succeeded
+2023-03-09 11:57:07,965 INFO supervisord started with pid 7
+2023-03-09 11:57:08,969 INFO spawned: 'cron' with pid 8
+2023-03-09 11:57:08,972 INFO spawned: 'python' with pid 9
+2023-03-09 11:57:08,974 INFO spawned: 'scheduler' with pid 10
+2023-03-09 11:57:09,976 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:57:09,976 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-09 11:57:09,976 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:41:06,320 INFO Set uid to user 0 succeeded
+2023-03-12 11:41:06,326 INFO supervisord started with pid 7
+2023-03-12 11:41:07,330 INFO spawned: 'cron' with pid 8
+2023-03-12 11:41:07,332 INFO spawned: 'python' with pid 9
+2023-03-12 11:41:07,334 INFO spawned: 'scheduler' with pid 10
+2023-03-12 11:41:08,336 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:41:08,336 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:41:08,336 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:42:30,068 INFO Set uid to user 0 succeeded
+2023-03-12 11:42:30,071 INFO supervisord started with pid 7
+2023-03-12 11:42:31,074 INFO spawned: 'cron' with pid 8
+2023-03-12 11:42:31,076 INFO spawned: 'python' with pid 9
+2023-03-12 11:42:31,078 INFO spawned: 'scheduler' with pid 10
+2023-03-12 11:42:32,080 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:42:32,080 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 11:42:32,080 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 13:55:06,045 INFO Set uid to user 0 succeeded
+2023-03-12 13:55:06,047 INFO supervisord started with pid 7
+2023-03-12 13:55:07,051 INFO spawned: 'cron' with pid 8
+2023-03-12 13:55:07,054 INFO spawned: 'python' with pid 9
+2023-03-12 13:55:07,056 INFO spawned: 'scheduler' with pid 10
+2023-03-12 13:55:07,445 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 13:55:07,445 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 13:55:07,447 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 13:55:07,447 DEBG 'scheduler' stderr output:
+    raise exception
+
+2023-03-12 13:55:07,448 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 13:55:07,494 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140359483656464 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stdout)>
+2023-03-12 13:55:07,494 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140359483656368 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stderr)>
+2023-03-12 13:55:07,494 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 13:55:07,495 DEBG received SIGCHLD indicating a child quit
+2023-03-12 13:55:08,496 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 13:55:08,496 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 13:55:08,498 INFO spawned: 'scheduler' with pid 12
+2023-03-12 13:55:08,850 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 13:55:08,850 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 13:55:08,851 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 13:55:08,851 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 13:55:08,900 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140359483656944 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stdout)>
+2023-03-12 13:55:08,900 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140359483656560 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stderr)>
+2023-03-12 13:55:08,900 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 13:55:08,900 DEBG received SIGCHLD indicating a child quit
+2023-03-12 13:55:10,905 INFO spawned: 'scheduler' with pid 14
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+    raise exception
+
+2023-03-12 13:55:11,299 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 13:55:11,350 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140359483656320 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stdout)>
+2023-03-12 13:55:11,350 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140359483656464 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stderr)>
+2023-03-12 13:55:11,350 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 13:55:11,350 DEBG received SIGCHLD indicating a child quit
+2023-03-12 13:55:14,356 INFO spawned: 'scheduler' with pid 16
+2023-03-12 13:55:14,730 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 13:55:14,730 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 13:55:14,730 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 13:55:14,731 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 13:55:14,790 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140359483656512 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stdout)>
+2023-03-12 13:55:14,790 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140359483656944 for <Subprocess at 140359483654976 with name scheduler in state STARTING> (stderr)>
+2023-03-12 13:55:14,790 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 13:55:14,790 DEBG received SIGCHLD indicating a child quit
+2023-03-12 13:55:15,792 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
+2023-03-12 15:50:26,668 INFO Set uid to user 0 succeeded
+2023-03-12 15:50:26,670 INFO supervisord started with pid 7
+2023-03-12 15:50:27,674 INFO spawned: 'cron' with pid 8
+2023-03-12 15:50:27,677 INFO spawned: 'python' with pid 9
+2023-03-12 15:50:27,679 INFO spawned: 'scheduler' with pid 10
+2023-03-12 15:50:28,681 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:50:28,681 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:50:28,681 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:51:28,119 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:51:28,120 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:51:28,176 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139812560898320 for <Subprocess at 139812560896832 with name scheduler in state RUNNING> (stdout)>
+2023-03-12 15:51:28,176 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139812560898224 for <Subprocess at 139812560896832 with name scheduler in state RUNNING> (stderr)>
+2023-03-12 15:51:28,176 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:51:28,176 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:51:29,180 INFO spawned: 'scheduler' with pid 63
+2023-03-12 15:51:29,555 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:51:29,556 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:51:29,556 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:51:29,556 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:51:29,616 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139812560898800 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:51:29,616 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139812560898416 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:51:29,616 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:51:29,616 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:51:30,620 INFO spawned: 'scheduler' with pid 65
+2023-03-12 15:51:30,966 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+
+2023-03-12 15:51:30,966 DEBG 'scheduler' stderr output:
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:51:31,031 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139812560898176 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:51:31,031 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139812560898320 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:51:31,031 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:51:31,032 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:51:33,037 INFO spawned: 'scheduler' with pid 67
+2023-03-12 15:51:33,406 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:51:33,406 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:51:33,407 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:51:33,407 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:51:33,461 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139812560898368 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:51:33,461 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139812560898800 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:51:33,462 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:51:33,462 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:51:36,468 INFO spawned: 'scheduler' with pid 69
+2023-03-12 15:51:36,815 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:51:36,815 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:51:36,815 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:51:36,816 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:51:36,871 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139812560898848 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:51:36,871 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139812560898176 for <Subprocess at 139812560896832 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:51:36,871 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:51:36,871 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:51:37,873 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
+2023-03-12 15:56:39,325 INFO Set uid to user 0 succeeded
+2023-03-12 15:56:39,327 INFO supervisord started with pid 8
+2023-03-12 15:56:40,331 INFO spawned: 'cron' with pid 9
+2023-03-12 15:56:40,334 INFO spawned: 'python' with pid 10
+2023-03-12 15:56:40,337 INFO spawned: 'scheduler' with pid 11
+2023-03-12 15:56:41,340 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:56:41,340 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:56:41,340 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 15:57:40,655 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:57:40,655 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:57:40,656 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:57:40,706 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140418811349168 for <Subprocess at 140418811347776 with name scheduler in state RUNNING> (stderr)>
+2023-03-12 15:57:40,707 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140418811349264 for <Subprocess at 140418811347776 with name scheduler in state RUNNING> (stdout)>
+2023-03-12 15:57:40,707 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:57:40,707 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:57:40,709 INFO spawned: 'scheduler' with pid 3682
+2023-03-12 15:57:41,019 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:57:41,020 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:57:41,020 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:57:41,020 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:57:41,067 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140418811349744 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:57:41,067 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140418811349360 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:57:41,067 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:57:41,067 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:57:42,071 INFO spawned: 'scheduler' with pid 3863
+2023-03-12 15:57:42,375 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:57:42,376 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:57:42,376 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:57:42,376 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:57:42,421 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140418811349120 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:57:42,421 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140418811349264 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:57:42,421 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:57:42,421 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:57:44,427 INFO spawned: 'scheduler' with pid 4496
+2023-03-12 15:57:44,833 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:57:44,834 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:57:44,834 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:57:44,834 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:57:44,884 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140418811349312 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:57:44,884 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140418811349744 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:57:44,884 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:57:44,884 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:57:47,890 INFO spawned: 'scheduler' with pid 5108
+2023-03-12 15:57:48,235 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 15:57:48,235 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 15:57:48,235 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 15:57:48,235 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 15:57:48,282 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140418811349792 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stdout)>
+2023-03-12 15:57:48,282 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140418811349120 for <Subprocess at 140418811347776 with name scheduler in state STARTING> (stderr)>
+2023-03-12 15:57:48,283 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 15:57:48,283 DEBG received SIGCHLD indicating a child quit
+2023-03-12 15:57:49,284 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
+2023-03-12 16:08:45,206 INFO Set uid to user 0 succeeded
+2023-03-12 16:08:45,209 INFO supervisord started with pid 7
+2023-03-12 16:08:46,213 INFO spawned: 'cron' with pid 8
+2023-03-12 16:08:46,215 INFO spawned: 'python' with pid 9
+2023-03-12 16:08:46,218 INFO spawned: 'scheduler' with pid 10
+2023-03-12 16:08:47,219 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 16:08:47,219 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 16:08:47,219 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 16:09:46,734 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:09:46,734 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:09:46,735 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:09:46,735 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:09:46,780 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139751085492496 for <Subprocess at 139751085491008 with name scheduler in state RUNNING> (stdout)>
+2023-03-12 16:09:46,780 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139751085492400 for <Subprocess at 139751085491008 with name scheduler in state RUNNING> (stderr)>
+2023-03-12 16:09:46,780 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:09:46,780 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:09:47,784 INFO spawned: 'scheduler' with pid 3941
+2023-03-12 16:09:48,130 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:09:48,130 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:09:48,130 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:09:48,130 DEBG 'scheduler' stderr output:
+    raise exception
+
+2023-03-12 16:09:48,130 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:09:48,175 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139751085492976 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stdout)>
+2023-03-12 16:09:48,175 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139751085492592 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stderr)>
+2023-03-12 16:09:48,176 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:09:48,176 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:09:49,179 INFO spawned: 'scheduler' with pid 4323
+2023-03-12 16:09:49,545 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:09:49,546 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:09:49,546 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:09:49,546 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:09:49,595 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139751085492352 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stdout)>
+2023-03-12 16:09:49,595 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139751085492496 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stderr)>
+2023-03-12 16:09:49,595 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:09:49,595 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:09:51,602 INFO spawned: 'scheduler' with pid 5105
+2023-03-12 16:09:52,029 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:09:52,029 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:09:52,029 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:09:52,029 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:09:52,077 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139751085492544 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stdout)>
+2023-03-12 16:09:52,077 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139751085492976 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stderr)>
+2023-03-12 16:09:52,077 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:09:52,077 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:09:55,083 INFO spawned: 'scheduler' with pid 5107
+2023-03-12 16:09:55,394 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:09:55,394 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:09:55,394 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:09:55,394 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:09:55,450 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 139751085493024 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stdout)>
+2023-03-12 16:09:55,451 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 139751085492352 for <Subprocess at 139751085491008 with name scheduler in state STARTING> (stderr)>
+2023-03-12 16:09:55,451 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:09:55,451 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:09:56,451 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
+2023-03-12 16:21:52,941 INFO Set uid to user 0 succeeded
+2023-03-12 16:21:52,944 INFO supervisord started with pid 7
+2023-03-12 16:21:53,947 INFO spawned: 'cron' with pid 8
+2023-03-12 16:21:53,949 INFO spawned: 'python' with pid 9
+2023-03-12 16:21:53,951 INFO spawned: 'scheduler' with pid 10
+2023-03-12 16:21:54,317 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-12 16:21:54,317 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-12 16:21:54,317 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-12 16:21:54,317 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-12 16:21:54,361 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796278032 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stdout)>
+2023-03-12 16:21:54,361 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796277936 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stderr)>
+2023-03-12 16:21:54,361 INFO exited: scheduler (exit status 1; not expected)
+2023-03-12 16:21:54,361 DEBG received SIGCHLD indicating a child quit
+2023-03-12 16:21:55,363 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 16:21:55,363 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-12 16:21:55,365 INFO spawned: 'scheduler' with pid 12
+2023-03-12 16:21:56,367 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-13 00:01:21,502 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-13 00:01:21,503 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-13 00:01:21,549 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796278512 for <Subprocess at 140686796276544 with name scheduler in state RUNNING> (stdout)>
+2023-03-13 00:01:21,549 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796278128 for <Subprocess at 140686796276544 with name scheduler in state RUNNING> (stderr)>
+2023-03-13 00:01:21,549 INFO exited: scheduler (exit status 1; not expected)
+2023-03-13 00:01:21,549 DEBG received SIGCHLD indicating a child quit
+2023-03-13 00:01:22,554 INFO spawned: 'scheduler' with pid 13796
+2023-03-13 00:01:22,995 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-13 00:01:22,996 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-13 00:01:22,996 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-13 00:01:22,996 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-13 00:01:23,042 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796276592 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stdout)>
+2023-03-13 00:01:23,042 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796277984 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stderr)>
+2023-03-13 00:01:23,042 INFO exited: scheduler (exit status 1; not expected)
+2023-03-13 00:01:23,042 DEBG received SIGCHLD indicating a child quit
+2023-03-13 00:01:24,046 INFO spawned: 'scheduler' with pid 14378
+2023-03-13 00:01:24,467 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-13 00:01:24,467 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+
+2023-03-13 00:01:24,467 DEBG 'scheduler' stderr output:
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-13 00:01:24,467 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-13 00:01:24,467 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-13 00:01:24,519 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796278656 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stdout)>
+2023-03-13 00:01:24,519 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796278080 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stderr)>
+2023-03-13 00:01:24,519 INFO exited: scheduler (exit status 1; not expected)
+2023-03-13 00:01:24,519 DEBG received SIGCHLD indicating a child quit
+2023-03-13 00:01:26,525 INFO spawned: 'scheduler' with pid 14780
+2023-03-13 00:01:26,949 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-13 00:01:26,949 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-13 00:01:26,949 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-13 00:01:26,949 DEBG 'scheduler' stderr output:
+    raise exception
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-13 00:01:27,002 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796278128 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stdout)>
+2023-03-13 00:01:27,002 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796278032 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stderr)>
+2023-03-13 00:01:27,002 INFO exited: scheduler (exit status 1; not expected)
+2023-03-13 00:01:27,003 DEBG received SIGCHLD indicating a child quit
+2023-03-13 00:01:30,009 INFO spawned: 'scheduler' with pid 15290
+2023-03-13 00:01:30,394 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-03-13 00:01:30,394 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 23, in newLaunch
+    if self.checkCaseClusteringPermission(): subprocess.Popen(['python', os.path.join('scripts', 'CaseClustering', 'main.py')],
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 51, in checkCaseClusteringPermission
+    launches = self.db.selectTodayLaunchdCaseClustering()
+  File "/var/www/html/docker/python/helper/database.py", line 73, in selectTodayLaunchdCaseClustering
+    response.append(row['ID'])
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/cursor.py", line 787, in _key_fallback
+
+2023-03-13 00:01:30,394 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-03-13 00:01:30,394 DEBG 'scheduler' stderr output:
+    raise exception
+
+2023-03-13 00:01:30,394 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'ID'
+
+2023-03-13 00:01:30,442 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140686796277984 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stdout)>
+2023-03-13 00:01:30,442 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140686796278464 for <Subprocess at 140686796276544 with name scheduler in state STARTING> (stderr)>
+2023-03-13 00:01:30,442 INFO exited: scheduler (exit status 1; not expected)
+2023-03-13 00:01:30,442 DEBG received SIGCHLD indicating a child quit
+2023-03-13 00:01:31,443 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
+2023-03-14 10:27:55,545 INFO Set uid to user 0 succeeded
+2023-03-14 10:27:55,549 INFO supervisord started with pid 7
+2023-03-14 10:27:56,552 INFO spawned: 'cron' with pid 8
+2023-03-14 10:27:56,554 INFO spawned: 'python' with pid 9
+2023-03-14 10:27:56,556 INFO spawned: 'scheduler' with pid 10
+2023-03-14 10:27:57,558 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-14 10:27:57,558 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-14 10:27:57,558 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-14 11:31:26,583 INFO Set uid to user 0 succeeded
+2023-03-14 11:31:26,586 INFO supervisord started with pid 7
+2023-03-14 11:31:27,589 INFO spawned: 'cron' with pid 8
+2023-03-14 11:31:27,591 INFO spawned: 'python' with pid 9
+2023-03-14 11:31:27,593 INFO spawned: 'scheduler' with pid 10
+2023-03-14 11:31:28,595 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-14 11:31:28,595 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-14 11:31:28,595 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-20 20:19:05,127 INFO Set uid to user 0 succeeded
+2023-03-20 20:19:05,159 INFO supervisord started with pid 7
+2023-03-20 20:19:06,162 INFO spawned: 'cron' with pid 8
+2023-03-20 20:19:06,165 INFO spawned: 'python' with pid 9
+2023-03-20 20:19:06,167 INFO spawned: 'scheduler' with pid 10
+2023-03-20 20:19:07,169 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-20 20:19:07,170 INFO success: python entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-20 20:19:07,170 INFO success: scheduler entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-21 00:03:44,598 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1900, in _execute_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: DPI-1080: connection was closed by ORA-3113
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 21, in newLaunch
+    self.launched_engines = self.db.getLaunchedEngines()
+  File "/var/www/html/docker/python/helper/database.py", line 27, in getLaunchedEngines
+    for row in self.db.execute(query):
+  File "<string>", line 2, in execute
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/deprecations.py", line 402, in warned
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3257, in execute
+    return connection.execute(statement, *multiparams, **params)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1365, in execute
+    return self._exec_driver_sql(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1669, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1943, in _execute_context
+    self._handle_dbapi_exception(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2124, in _handle_dbapi_exception
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1900, in _execute_context
+    self.dialect.do_execute(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) DPI-1080: connection was closed by ORA-3113
+[SQL: SELECT * FROM ACIOPRD.ENGINE_LAUNCH_STATISTICS WHERE SERVER_NAME = '10.80.27.163' AND ENGINE_LAUNCH_STATUS = 'in_progress']
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+
+2023-06-21 00:03:45,755 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140709496097040 for <Subprocess at 140709496095552 with name scheduler in state RUNNING> (stdout)>
+2023-06-21 00:03:45,758 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140709496096944 for <Subprocess at 140709496095552 with name scheduler in state RUNNING> (stderr)>
+2023-06-21 00:03:45,775 INFO exited: scheduler (exit status 1; not expected)
+2023-06-21 00:03:45,791 DEBG received SIGCHLD indicating a child quit
+2023-06-21 00:03:46,905 INFO spawned: 'scheduler' with pid 1397337
+2023-06-21 00:03:47,209 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:47,210 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+
+2023-06-21 00:03:47,211 DEBG 'scheduler' stderr output:
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+
+2023-06-21 00:03:47,211 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:47,212 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:47,213 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:47,214 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+
+2023-06-21 00:03:47,214 DEBG 'scheduler' stderr output:
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 21, in newLaunch
+    self.launched_engines = self.db.getLaunchedEngines()
+  File "/var/www/html/docker/python/helper/database.py", line 27, in getLaunchedEngines
+    for row in self.db.execute(query):
+  File "<string>", line 2, in execute
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/deprecations.py", line 402, in warned
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3256, in execute
+    connection = self.connect(close_with_result=True)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+
+2023-06-21 00:03:47,215 DEBG 'scheduler' stderr output:
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+
+2023-06-21 00:03:47,217 DEBG 'scheduler' stderr output:
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:47,218 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+
+2023-06-21 00:03:47,252 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140709496097568 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stdout)>
+2023-06-21 00:03:47,252 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140709496097472 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stderr)>
+2023-06-21 00:03:47,253 INFO exited: scheduler (exit status 1; not expected)
+2023-06-21 00:03:47,254 DEBG received SIGCHLD indicating a child quit
+2023-06-21 00:03:48,258 INFO spawned: 'scheduler' with pid 1397338
+2023-06-21 00:03:48,476 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:48,476 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:48,476 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+
+2023-06-21 00:03:48,476 DEBG 'scheduler' stderr output:
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+
+2023-06-21 00:03:48,476 DEBG 'scheduler' stderr output:
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+
+The above exception was the direct cause of the following exception:
+
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/var/www/html/main.py", line 2, in <module>
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+
+2023-06-21 00:03:48,477 DEBG 'scheduler' stderr output:
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 21, in newLaunch
+    self.launched_engines = self.db.getLaunchedEngines()
+  File "/var/www/html/docker/python/helper/database.py", line 27, in getLaunchedEngines
+    for row in self.db.execute(query):
+  File "<string>", line 2, in execute
+
+2023-06-21 00:03:48,479 DEBG 'scheduler' stderr output:
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/deprecations.py", line 402, in warned
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3256, in execute
+    connection = self.connect(close_with_result=True)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+
+2023-06-21 00:03:48,480 DEBG 'scheduler' stderr output:
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:48,483 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+
+2023-06-21 00:03:48,516 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140709496097664 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stdout)>
+2023-06-21 00:03:48,516 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140709496096896 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stderr)>
+2023-06-21 00:03:48,517 INFO exited: scheduler (exit status 1; not expected)
+2023-06-21 00:03:48,517 DEBG received SIGCHLD indicating a child quit
+2023-06-21 00:03:50,521 INFO spawned: 'scheduler' with pid 1397339
+2023-06-21 00:03:50,748 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:50,749 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+  File "/var/www/html/main.py", line 2, in <module>
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 21, in newLaunch
+    self.launched_engines = self.db.getLaunchedEngines()
+  File "/var/www/html/docker/python/helper/database.py", line 27, in getLaunchedEngines
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    for row in self.db.execute(query):
+  File "<string>", line 2, in execute
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/deprecations.py", line 402, in warned
+
+2023-06-21 00:03:50,750 DEBG 'scheduler' stderr output:
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3256, in execute
+
+2023-06-21 00:03:50,751 DEBG 'scheduler' stderr output:
+    connection = self.connect(close_with_result=True)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+
+2023-06-21 00:03:50,751 DEBG 'scheduler' stderr output:
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+
+2023-06-21 00:03:50,751 DEBG 'scheduler' stderr output:
+    else engine.raw_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+
+2023-06-21 00:03:50,752 DEBG 'scheduler' stderr output:
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+
+2023-06-21 00:03:50,752 DEBG 'scheduler' stderr output:
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+
+2023-06-21 00:03:50,753 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+
+2023-06-21 00:03:50,754 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+
+2023-06-21 00:03:50,794 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140709496096944 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stdout)>
+2023-06-21 00:03:50,794 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140709496097136 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stderr)>
+2023-06-21 00:03:50,794 INFO exited: scheduler (exit status 1; not expected)
+2023-06-21 00:03:50,794 DEBG received SIGCHLD indicating a child quit
+2023-06-21 00:03:53,800 INFO spawned: 'scheduler' with pid 1397340
+2023-06-21 00:03:54,029 DEBG 'scheduler' stderr output:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:54,029 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:54,030 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+cx_Oracle.DatabaseError: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+  File "/var/www/html/main.py", line 2, in <module>
+    EngineScheduler()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 16, in __init__
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+    self.newLaunch()
+  File "/var/www/html/docker/python/helper/engineScheduler.py", line 21, in newLaunch
+    self.launched_engines = self.db.getLaunchedEngines()
+  File "/var/www/html/docker/python/helper/database.py", line 27, in getLaunchedEngines
+    for row in self.db.execute(query):
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+  File "<string>", line 2, in execute
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/deprecations.py", line 402, in warned
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3256, in execute
+
+2023-06-21 00:03:54,031 DEBG 'scheduler' stderr output:
+    connection = self.connect(close_with_result=True)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+
+2023-06-21 00:03:54,032 DEBG 'scheduler' stderr output:
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+
+2023-06-21 00:03:54,032 DEBG 'scheduler' stderr output:
+    else engine.raw_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+
+2023-06-21 00:03:54,032 DEBG 'scheduler' stderr output:
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+
+2023-06-21 00:03:54,033 DEBG 'scheduler' stderr output:
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+
+2023-06-21 00:03:54,033 DEBG 'scheduler' stderr output:
+    util.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:54,033 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    return fn()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    self.__connect()
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 665, in __connect
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    compat.raise_(
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    raise exception
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+
+2023-06-21 00:03:54,034 DEBG 'scheduler' stderr output:
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+
+2023-06-21 00:03:54,035 DEBG 'scheduler' stderr output:
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 597, in connect
+
+2023-06-21 00:03:54,035 DEBG 'scheduler' stderr output:
+    return self.dbapi.connect(*cargs, **cparams)
+
+2023-06-21 00:03:54,035 DEBG 'scheduler' stderr output:
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+
+2023-06-21 00:03:54,079 DEBG fd 14 closed, stopped monitoring <POutputDispatcher at 140709496097472 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stdout)>
+2023-06-21 00:03:54,080 DEBG fd 18 closed, stopped monitoring <POutputDispatcher at 140709496096992 for <Subprocess at 140709496095552 with name scheduler in state STARTING> (stderr)>
+2023-06-21 00:03:54,080 INFO exited: scheduler (exit status 1; not expected)
+2023-06-21 00:03:54,080 DEBG received SIGCHLD indicating a child quit
+2023-06-21 00:03:55,081 INFO gave up: scheduler entered FATAL state, too many start retries too quickly
